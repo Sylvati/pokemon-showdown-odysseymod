@@ -20212,7 +20212,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	bulbasaurodyssey: {
 		num: -100,
-		name: "Bulbasaur",
+		name: "Bulbasaur-Odyssey",
 		types: ["Grass", "Poison"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 45, atk: 49, def: 49, spa: 65, spd: 65, spe: 45 },
@@ -20224,7 +20224,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	ivysaurodyssey: {
 		num: -101,
-		name: "Ivysaur",
+		name: "Ivysaur-Odyssey",
 		types: ["Grass", "Poison"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 60, atk: 62, def: 63, spa: 80, spd: 80, spe: 60 },
@@ -20236,7 +20236,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	venusaurodyssey: {
 		num: -102,
-		name: "Venusaur",
+		name: "Venusaur-Odyssey",
 		types: ["Grass", "Poison"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 80, atk: 82, def: 83, spa: 100, spd: 100, spe: 80 },
@@ -20248,7 +20248,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	charmanderodyssey: {
 		num: -103,
-		name: "Charmander",
+		name: "Charmander-Odyssey",
 		types: ["Fire"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 39, atk: 52, def: 43, spa: 60, spd: 50, spe: 65 },
@@ -20260,7 +20260,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	charmeleonodyssey: {
 		num: -104,
-		name: "Charmeleon",
+		name: "Charmeleon-Odyssey",
 		types: ["Fire"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 58, atk: 64, def: 58, spa: 80, spd: 65, spe: 80 },
@@ -20272,7 +20272,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	charizardodyssey: {
 		num: -105,
-		name: "Charizard",
+		name: "Charizard-Odyssey",
 		types: ["Fire", "Flying"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 78, atk: 84, def: 78, spa: 109, spd: 85, spe: 100 },
@@ -20284,7 +20284,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	squirtleodyssey: {
 		num: -106,
-		name: "Squirtle",
+		name: "Squirtle-Odyssey",
 		types: ["Water"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 44, atk: 48, def: 65, spa: 50, spd: 64, spe: 43 },
@@ -20296,7 +20296,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	wartortleodyssey: {
 		num: -107,
-		name: "Wartortle",
+		name: "Wartortle-Odyssey",
 		types: ["Water"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 59, atk: 63, def: 80, spa: 65, spd: 80, spe: 58 },
@@ -20308,7 +20308,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	blastoiseodyssey: {
 		num: -108,
-		name: "Blastoise",
+		name: "Blastoise-Odyssey",
 		types: ["Water"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 79, atk: 83, def: 100, spa: 85, spd: 105, spe: 78 },
@@ -20320,7 +20320,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	caterpieodyssey: {
 		num: -109,
-		name: "Caterpie",
+		name: "Caterpie-Odyssey",
 		types: ["Bug"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 45, atk: 30, def: 35, spa: 20, spd: 20, spe: 45 },
@@ -20332,7 +20332,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	metapododyssey: {
 		num: -110,
-		name: "Metapod",
+		name: "Metapod-Odyssey",
 		types: ["Bug"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 50, atk: 20, def: 55, spa: 25, spd: 25, spe: 30 },
@@ -20344,7 +20344,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	butterfreeodyssey: {
 		num: -111,
-		name: "Butterfree",
+		name: "Butterfree-Odyssey",
 		types: ["Bug", "Flying"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 65, atk: 45, def: 60, spa: 100, spd: 90, spe: 90 },
@@ -20356,7 +20356,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	weedleodyssey: {
 		num: -112,
-		name: "Weedle",
+		name: "Weedle-Odyssey",
 		types: ["Bug", "Poison"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 40, atk: 35, def: 30, spa: 20, spd: 20, spe: 50 },
@@ -20368,7 +20368,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	kakunaodyssey: {
 		num: -113,
-		name: "Kakuna",
+		name: "Kakuna-Odyssey",
 		types: ["Bug", "Poison"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 45, atk: 25, def: 50, spa: 25, spd: 25, spe: 35 },
@@ -20380,7 +20380,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	beedrillodyssey: {
 		num: -114,
-		name: "Beedrill",
+		name: "Beedrill-Odyssey",
 		types: ["Bug", "Poison"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 65, atk: 100, def: 60, spa: 45, spd: 90, spe: 90 },
@@ -20392,7 +20392,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	pidgeyodyssey: {
 		num: -115,
-		name: "Pidgey",
+		name: "Pidgey-Odyssey",
 		types: ["Normal", "Flying"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 40, atk: 35, def: 40, spa: 45, spd: 35, spe: 56 },
@@ -20404,7 +20404,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	pidgeottoodyssey: {
 		num: -116,
-		name: "Pidgeotto",
+		name: "Pidgeotto-Odyssey",
 		types: ["Normal", "Flying"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 63, atk: 50, def: 55, spa: 65, spd: 50, spe: 75 },
@@ -20416,7 +20416,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	pidgeotodyssey: {
 		num: -117,
-		name: "Pidgeot",
+		name: "Pidgeot-Odyssey",
 		types: ["Normal", "Flying"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 83, atk: 70, def: 75, spa: 100, spd: 70, spe: 105 },
@@ -20428,7 +20428,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	rattataodyssey: {
 		num: -118,
-		name: "⭐ rattata",
+		name: "⭐ rattata-Odyssey",
 		types: ["Normal", "Grass"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 30, atk: 60, def: 30, spa: 25, spd: 30, spe: 80 },
@@ -20440,7 +20440,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	ratreecateodyssey: {
 		num: -119,
-		name: "⭐ ratreecate",
+		name: "⭐ ratreecate-Odyssey",
 		types: ["Normal", "Grass"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 65, atk: 100, def: 60, spa: 50, spd: 75, spe: 110 },
@@ -20452,7 +20452,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	spearowodyssey: {
 		num: -120,
-		name: "⭐ spearow",
+		name: "⭐ spearow-Odyssey",
 		types: ["Electric", "Flying"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 40, atk: 65, def: 35, spa: 30, spd: 35, spe: 70 },
@@ -20464,7 +20464,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	fearowodyssey: {
 		num: -121,
-		name: "⭐ fearow",
+		name: "⭐ fearow-Odyssey",
 		types: ["Electric", "Flying"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 70, atk: 120, def: 70, spa: 65, spd: 70, spe: 105 },
@@ -20476,7 +20476,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	ekansodyssey: {
 		num: -122,
-		name: "⭐ ekans",
+		name: "⭐ ekans-Odyssey",
 		types: ["Poison", "Aether"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 40, atk: 60, def: 45, spa: 40, spd: 60, spe: 55 },
@@ -20488,7 +20488,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	arbokodyssey: {
 		num: -123,
-		name: "⭐ arbok",
+		name: "⭐ arbok-Odyssey",
 		types: ["Poison", "Aether"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 70, atk: 100, def: 80, spa: 65, spd: 85, spe: 80 },
@@ -20500,7 +20500,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	pikachuodyssey: {
 		num: -124,
-		name: "Pikachu",
+		name: "Pikachu-Odyssey",
 		types: ["Electric"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 35, atk: 55, def: 30, spa: 50, spd: 40, spe: 90 },
@@ -20512,7 +20512,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	raichuodyssey: {
 		num: -125,
-		name: "Raichu",
+		name: "Raichu-Odyssey",
 		types: ["Electric"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 60, atk: 90, def: 55, spa: 90, spd: 80, spe: 110 },
@@ -20524,7 +20524,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	gorochuodyssey: {
 		num: -126,
-		name: "Gorochu",
+		name: "Gorochu-Odyssey",
 		types: ["Electric", "Fighting"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 65, atk: 100, def: 60, spa: 100, spd: 85, spe: 115 },
@@ -20536,7 +20536,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	sandshrewodyssey: {
 		num: -127,
-		name: "⭐ sandshrew",
+		name: "⭐ sandshrew-Odyssey",
 		types: ["Ground", "Steel"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 50, atk: 75, def: 85, spa: 20, spd: 30, spe: 40 },
@@ -20548,7 +20548,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	sandslashodyssey: {
 		num: -128,
-		name: "⭐ sandslash",
+		name: "⭐ sandslash-Odyssey",
 		types: ["Ground", "Steel"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 80, atk: 110, def: 120, spa: 45, spd: 65, spe: 80 },
@@ -20560,7 +20560,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	nidoranfodyssey: {
 		num: -129,
-		name: "Nidoran (f)",
+		name: "Nidoran (f)-Odyssey",
 		types: ["Poison"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 55, atk: 40, def: 52, spa: 47, spd: 40, spe: 41 },
@@ -20572,7 +20572,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	nidorinaodyssey: {
 		num: -130,
-		name: "Nidorina",
+		name: "Nidorina-Odyssey",
 		types: ["Poison"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 70, atk: 55, def: 67, spa: 62, spd: 55, spe: 56 },
@@ -20584,7 +20584,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	nidoqueenodyssey: {
 		num: -131,
-		name: "Nidoqueen",
+		name: "Nidoqueen-Odyssey",
 		types: ["Poison", "Ground"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 90, atk: 75, def: 87, spa: 92, spd: 85, spe: 76 },
@@ -20596,7 +20596,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	nidoranmodyssey: {
 		num: -132,
-		name: "Nidoran (m)",
+		name: "Nidoran (m)-Odyssey",
 		types: ["Poison"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 46, atk: 57, def: 40, spa: 40, spd: 40, spe: 50 },
@@ -20608,7 +20608,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	nidorinoodyssey: {
 		num: -133,
-		name: "Nidorino",
+		name: "Nidorino-Odyssey",
 		types: ["Poison"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 61, atk: 72, def: 57, spa: 55, spd: 55, spe: 65 },
@@ -20620,7 +20620,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	nidokingodyssey: {
 		num: -134,
-		name: "Nidoking",
+		name: "Nidoking-Odyssey",
 		types: ["Poison", "Ground"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 81, atk: 102, def: 77, spa: 85, spd: 75, spe: 85 },
@@ -20632,7 +20632,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	clefairyodyssey: {
 		num: -135,
-		name: "Clefairy",
+		name: "Clefairy-Odyssey",
 		types: ["Aether"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 70, atk: 45, def: 48, spa: 60, spd: 65, spe: 35 },
@@ -20644,7 +20644,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	clefableodyssey: {
 		num: -136,
-		name: "Clefable",
+		name: "Clefable-Odyssey",
 		types: ["Aether"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 105, atk: 70, def: 75, spa: 95, spd: 90, spe: 60 },
@@ -20656,7 +20656,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	vulpixodyssey: {
 		num: -137,
-		name: "⭐ vulpix",
+		name: "⭐ vulpix-Odyssey",
 		types: ["Fire", "Electric"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 38, atk: 41, def: 40, spa: 50, spd: 65, spe: 65 },
@@ -20668,7 +20668,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	ninetalesodyssey: {
 		num: -138,
-		name: "⭐ ninetales",
+		name: "⭐ ninetales-Odyssey",
 		types: ["Fire", "Electric"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 73, atk: 76, def: 75, spa: 81, spd: 100, spe: 100 },
@@ -20680,7 +20680,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	jigglypuffodyssey: {
 		num: -139,
-		name: "⭐ jigglypuff",
+		name: "⭐ jigglypuff-Odyssey",
 		types: ["Normal", "Ground"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 115, atk: 45, def: 30, spa: 45, spd: 30, spe: 20 },
@@ -20692,7 +20692,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	wigglytuffodyssey: {
 		num: -140,
-		name: "⭐ wigglytuff",
+		name: "⭐ wigglytuff-Odyssey",
 		types: ["Normal", "Ground"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 150, atk: 85, def: 60, spa: 85, spd: 60, spe: 45 },
@@ -20704,7 +20704,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	zubatodyssey: {
 		num: -141,
-		name: "Zubat",
+		name: "Zubat-Odyssey",
 		types: ["Poison", "Flying"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 40, atk: 45, def: 35, spa: 30, spd: 40, spe: 55 },
@@ -20716,7 +20716,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	golbatodyssey: {
 		num: -142,
-		name: "Golbat",
+		name: "Golbat-Odyssey",
 		types: ["Poison", "Flying"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 75, atk: 80, def: 70, spa: 65, spd: 75, spe: 90 },
@@ -20728,7 +20728,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	oddishodyssey: {
 		num: -143,
-		name: "Oddish",
+		name: "Oddish-Odyssey",
 		types: ["Grass", "Poison"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 45, atk: 50, def: 55, spa: 75, spd: 65, spe: 30 },
@@ -20740,7 +20740,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	gloomodyssey: {
 		num: -144,
-		name: "Gloom",
+		name: "Gloom-Odyssey",
 		types: ["Grass", "Poison"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 60, atk: 65, def: 70, spa: 85, spd: 75, spe: 40 },
@@ -20752,7 +20752,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	vileplumeodyssey: {
 		num: -145,
-		name: "Vileplume",
+		name: "Vileplume-Odyssey",
 		types: ["Grass", "Poison"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 75, atk: 80, def: 85, spa: 115, spd: 90, spe: 60 },
@@ -20764,7 +20764,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	parasodyssey: {
 		num: -146,
-		name: "Paras",
+		name: "Paras-Odyssey",
 		types: ["Bug", "Grass"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 35, atk: 70, def: 55, spa: 45, spd: 55, spe: 25 },
@@ -20776,7 +20776,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	parasectodyssey: {
 		num: -147,
-		name: "Parasect",
+		name: "Parasect-Odyssey",
 		types: ["Bug", "Grass"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 80, atk: 120, def: 95, spa: 60, spd: 95, spe: 30 },
@@ -20788,7 +20788,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	venonatodyssey: {
 		num: -148,
-		name: "Venonat",
+		name: "Venonat-Odyssey",
 		types: ["Bug", "Poison"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 60, atk: 40, def: 50, spa: 55, spd: 55, spe: 45 },
@@ -20800,7 +20800,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	venomothodyssey: {
 		num: -149,
-		name: "Venomoth",
+		name: "Venomoth-Odyssey",
 		types: ["Bug", "Poison"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 70, atk: 65, def: 75, spa: 100, spd: 75, spe: 90 },
@@ -20812,7 +20812,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	diglettodyssey: {
 		num: -150,
-		name: "Diglett",
+		name: "Diglett-Odyssey",
 		types: ["Ground"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 10, atk: 55, def: 25, spa: 35, spd: 45, spe: 95 },
@@ -20824,7 +20824,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	dugtrioodyssey: {
 		num: -151,
-		name: "Dugtrio",
+		name: "Dugtrio-Odyssey",
 		types: ["Ground"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 40, atk: 100, def: 50, spa: 50, spd: 70, spe: 140 },
@@ -20836,7 +20836,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	meowthodyssey: {
 		num: -152,
-		name: "Meowth",
+		name: "Meowth-Odyssey",
 		types: ["Normal"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 40, atk: 45, def: 35, spa: 40, spd: 40, spe: 90 },
@@ -20848,7 +20848,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	persianodyssey: {
 		num: -153,
-		name: "Persian",
+		name: "Persian-Odyssey",
 		types: ["Normal"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 70, atk: 75, def: 60, spa: 65, spd: 65, spe: 120 },
@@ -20860,7 +20860,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	psyduckodyssey: {
 		num: -154,
-		name: "Psyduck",
+		name: "Psyduck-Odyssey",
 		types: ["Water"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 50, atk: 52, def: 48, spa: 65, spd: 50, spe: 55 },
@@ -20872,7 +20872,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	golduckodyssey: {
 		num: -155,
-		name: "Golduck",
+		name: "Golduck-Odyssey",
 		types: ["Water", "Psychic"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 80, atk: 80, def: 80, spa: 105, spd: 80, spe: 95 },
@@ -20884,7 +20884,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	mankeyodyssey: {
 		num: -156,
-		name: "Mankey",
+		name: "Mankey-Odyssey",
 		types: ["Fighting"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 40, atk: 80, def: 35, spa: 35, spd: 45, spe: 70 },
@@ -20896,7 +20896,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	primeapeodyssey: {
 		num: -157,
-		name: "Primeape",
+		name: "Primeape-Odyssey",
 		types: ["Fighting"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 65, atk: 105, def: 60, spa: 60, spd: 70, spe: 95 },
@@ -20908,7 +20908,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	annihilapeodyssey: {
 		num: -158,
-		name: "Annihilape",
+		name: "Annihilape-Odyssey",
 		types: ["Fighting", "Ghost"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 110, atk: 115, def: 80, spa: 50, spd: 90, spe: 90 },
@@ -20920,7 +20920,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	growlitheodyssey: {
 		num: -159,
-		name: "Growlithe",
+		name: "Growlithe-Odyssey",
 		types: ["Fire"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 55, atk: 70, def: 45, spa: 70, spd: 50, spe: 60 },
@@ -20932,7 +20932,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	arcanineodyssey: {
 		num: -160,
-		name: "Arcanine",
+		name: "Arcanine-Odyssey",
 		types: ["Fire"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 90, atk: 110, def: 80, spa: 100, spd: 80, spe: 95 },
@@ -20944,7 +20944,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	poliwagodyssey: {
 		num: -161,
-		name: "Poliwag",
+		name: "Poliwag-Odyssey",
 		types: ["Water"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 40, atk: 50, def: 40, spa: 40, spd: 40, spe: 90 },
@@ -20956,7 +20956,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	poliwhirlodyssey: {
 		num: -162,
-		name: "Poliwhirl",
+		name: "Poliwhirl-Odyssey",
 		types: ["Water"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 65, atk: 65, def: 65, spa: 50, spd: 50, spe: 90 },
@@ -20968,7 +20968,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	poliwrathodyssey: {
 		num: -163,
-		name: "Poliwrath",
+		name: "Poliwrath-Odyssey",
 		types: ["Water", "Fighting"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 90, atk: 100, def: 100, spa: 70, spd: 90, spe: 70 },
@@ -20980,7 +20980,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	abraodyssey: {
 		num: -164,
-		name: "Abra",
+		name: "Abra-Odyssey",
 		types: ["Psychic"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 25, atk: 25, def: 15, spa: 105, spd: 55, spe: 90 },
@@ -20992,7 +20992,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	kadabraodyssey: {
 		num: -165,
-		name: "Kadabra",
+		name: "Kadabra-Odyssey",
 		types: ["Psychic"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 40, atk: 35, def: 30, spa: 120, spd: 70, spe: 105 },
@@ -21004,7 +21004,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	alakazamodyssey: {
 		num: -166,
-		name: "Alakazam",
+		name: "Alakazam-Odyssey",
 		types: ["Psychic"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 55, atk: 50, def: 45, spa: 135, spd: 85, spe: 120 },
@@ -21016,7 +21016,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	machopodyssey: {
 		num: -167,
-		name: "⭐ machop",
+		name: "⭐ machop-Odyssey",
 		types: ["Fighting"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 70, atk: 80, def: 50, spa: 35, spd: 35, spe: 35 },
@@ -21028,7 +21028,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	machokeodyssey: {
 		num: -168,
-		name: "⭐ machoke",
+		name: "⭐ machoke-Odyssey",
 		types: ["Fighting"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 80, atk: 100, def: 70, spa: 50, spd: 60, spe: 45 },
@@ -21040,7 +21040,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	machampodyssey: {
 		num: -169,
-		name: "⭐ machamp",
+		name: "⭐ machamp-Odyssey",
 		types: ["Fighting"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 90, atk: 130, def: 80, spa: 65, spd: 85, spe: 55 },
@@ -21052,7 +21052,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	bellsproutodyssey: {
 		num: -170,
-		name: "Bellsprout",
+		name: "Bellsprout-Odyssey",
 		types: ["Grass", "Poison"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 50, atk: 75, def: 35, spa: 70, spd: 30, spe: 40 },
@@ -21064,7 +21064,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	weepinbellodyssey: {
 		num: -171,
-		name: "Weepinbell",
+		name: "Weepinbell-Odyssey",
 		types: ["Grass", "Poison"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 65, atk: 90, def: 50, spa: 85, spd: 45, spe: 55 },
@@ -21076,7 +21076,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	victreebelodyssey: {
 		num: -172,
-		name: "Victreebel",
+		name: "Victreebel-Odyssey",
 		types: ["Grass", "Poison"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 85, atk: 105, def: 70, spa: 100, spd: 70, spe: 75 },
@@ -21088,7 +21088,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	tentacoolodyssey: {
 		num: -173,
-		name: "Tentacool",
+		name: "Tentacool-Odyssey",
 		types: ["Water", "Poison"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 40, atk: 40, def: 35, spa: 50, spd: 100, spe: 70 },
@@ -21100,7 +21100,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	tentacruelodyssey: {
 		num: -174,
-		name: "Tentacruel",
+		name: "Tentacruel-Odyssey",
 		types: ["Water", "Poison"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 80, atk: 70, def: 65, spa: 80, spd: 120, spe: 100 },
@@ -21112,7 +21112,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	geodudeodyssey: {
 		num: -175,
-		name: "Geodude",
+		name: "Geodude-Odyssey",
 		types: ["Rock", "Ground"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 40, atk: 80, def: 100, spa: 30, spd: 30, spe: 20 },
@@ -21124,7 +21124,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	gravelerodyssey: {
 		num: -176,
-		name: "Graveler",
+		name: "Graveler-Odyssey",
 		types: ["Rock", "Ground"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 55, atk: 95, def: 115, spa: 45, spd: 45, spe: 35 },
@@ -21136,7 +21136,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	golemodyssey: {
 		num: -177,
-		name: "Golem",
+		name: "Golem-Odyssey",
 		types: ["Rock", "Ground"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 80, atk: 110, def: 130, spa: 55, spd: 65, spe: 45 },
@@ -21148,7 +21148,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	ponytaodyssey: {
 		num: -178,
-		name: "⭐ ponyta",
+		name: "⭐ ponyta-Odyssey",
 		types: ["Fire", "Ice"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 50, atk: 85, def: 55, spa: 65, spd: 65, spe: 90 },
@@ -21160,7 +21160,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	rapidashodyssey: {
 		num: -179,
-		name: "⭐ rapidash",
+		name: "⭐ rapidash-Odyssey",
 		types: ["Fire", "Ice"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 65, atk: 110, def: 70, spa: 80, spd: 80, spe: 110 },
@@ -21172,7 +21172,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	slowpokeodyssey: {
 		num: -180,
-		name: "Slowpoke",
+		name: "Slowpoke-Odyssey",
 		types: ["Water", "Psychic"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 90, atk: 65, def: 65, spa: 40, spd: 40, spe: 15 },
@@ -21184,7 +21184,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	slowbroodyssey: {
 		num: -181,
-		name: "Slowbro",
+		name: "Slowbro-Odyssey",
 		types: ["Water", "Psychic"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 95, atk: 75, def: 110, spa: 100, spd: 80, spe: 30 },
@@ -21196,7 +21196,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	magnemiteodyssey: {
 		num: -182,
-		name: "Magnemite",
+		name: "Magnemite-Odyssey",
 		types: ["Electric", "Steel"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 25, atk: 35, def: 70, spa: 95, spd: 55, spe: 45 },
@@ -21208,7 +21208,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	magnetonodyssey: {
 		num: -183,
-		name: "Magneton",
+		name: "Magneton-Odyssey",
 		types: ["Electric", "Steel"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 50, atk: 60, def: 95, spa: 120, spd: 70, spe: 70 },
@@ -21220,7 +21220,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	farfetchdodyssey: {
 		num: -184,
-		name: "⭐ farfetch'd",
+		name: "⭐ farfetch'd-Odyssey",
 		types: ["Fighting", "Flying"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 65, atk: 105, def: 65, spa: 50, spd: 65, spe: 105 },
@@ -21232,7 +21232,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	farfetchdgalarodyssey: {
 		num: -185,
-		name: "Farfetch'd (galar)",
+		name: "Farfetch'd (galar)-Odyssey",
 		types: ["Fighting"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 52, atk: 95, def: 55, spa: 58, spd: 62, spe: 55 },
@@ -21244,7 +21244,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	sirfetchdodyssey: {
 		num: -186,
-		name: "Sirfetch'd",
+		name: "Sirfetch'd-Odyssey",
 		types: ["Fighting"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 62, atk: 135, def: 95, spa: 68, spd: 82, spe: 65 },
@@ -21256,7 +21256,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	doduoodyssey: {
 		num: -187,
-		name: "Doduo",
+		name: "Doduo-Odyssey",
 		types: ["Normal", "Flying"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 35, atk: 85, def: 45, spa: 35, spd: 35, spe: 75 },
@@ -21268,7 +21268,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	dodrioodyssey: {
 		num: -188,
-		name: "Dodrio",
+		name: "Dodrio-Odyssey",
 		types: ["Ground", "Flying"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 60, atk: 110, def: 70, spa: 60, spd: 60, spe: 120 },
@@ -21280,7 +21280,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	seelodyssey: {
 		num: -189,
-		name: "Seel",
+		name: "Seel-Odyssey",
 		types: ["Water"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 65, atk: 45, def: 55, spa: 45, spd: 70, spe: 45 },
@@ -21292,7 +21292,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	dewgongodyssey: {
 		num: -190,
-		name: "Dewgong",
+		name: "Dewgong-Odyssey",
 		types: ["Water", "Ice"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 100, atk: 70, def: 90, spa: 70, spd: 100, spe: 70 },
@@ -21304,7 +21304,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	grimerodyssey: {
 		num: -191,
-		name: "⭐ grimer",
+		name: "⭐ grimer-Odyssey",
 		types: ["Poison", "Dark"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 80, atk: 80, def: 50, spa: 40, spd: 50, spe: 25 },
@@ -21316,7 +21316,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	mukodyssey: {
 		num: -192,
-		name: "⭐ muk",
+		name: "⭐ muk-Odyssey",
 		types: ["Poison", "Dark"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 105, atk: 105, def: 75, spa: 65, spd: 100, spe: 50 },
@@ -21328,7 +21328,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	shellderodyssey: {
 		num: -193,
-		name: "Shellder",
+		name: "Shellder-Odyssey",
 		types: ["Water"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 30, atk: 65, def: 100, spa: 45, spd: 25, spe: 40 },
@@ -21340,7 +21340,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	cloysterodyssey: {
 		num: -194,
-		name: "Cloyster",
+		name: "Cloyster-Odyssey",
 		types: ["Water", "Ice"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 50, atk: 95, def: 180, spa: 95, spd: 45, spe: 70 },
@@ -21352,7 +21352,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	gastlyodyssey: {
 		num: -195,
-		name: "Gastly",
+		name: "Gastly-Odyssey",
 		types: ["Ghost", "Poison"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 30, atk: 35, def: 30, spa: 100, spd: 35, spe: 80 },
@@ -21364,7 +21364,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	haunterodyssey: {
 		num: -196,
-		name: "Haunter",
+		name: "Haunter-Odyssey",
 		types: ["Ghost", "Poison"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 45, atk: 50, def: 45, spa: 115, spd: 55, spe: 95 },
@@ -21376,7 +21376,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	gengarodyssey: {
 		num: -197,
-		name: "Gengar",
+		name: "Gengar-Odyssey",
 		types: ["Ghost", "Poison"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 60, atk: 65, def: 60, spa: 130, spd: 75, spe: 110 },
@@ -21388,7 +21388,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	onixodyssey: {
 		num: -198,
-		name: "Onix",
+		name: "Onix-Odyssey",
 		types: ["Rock", "Ground"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 35, atk: 45, def: 160, spa: 30, spd: 45, spe: 70 },
@@ -21400,7 +21400,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	drowzeeodyssey: {
 		num: -199,
-		name: "Drowzee",
+		name: "Drowzee-Odyssey",
 		types: ["Psychic"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 60, atk: 48, def: 45, spa: 43, spd: 90, spe: 42 },
@@ -21412,7 +21412,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	hypnoodyssey: {
 		num: -200,
-		name: "Hypno",
+		name: "Hypno-Odyssey",
 		types: ["Psychic"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 90, atk: 80, def: 70, spa: 80, spd: 120, spe: 65 },
@@ -21424,7 +21424,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	krabbyodyssey: {
 		num: -201,
-		name: "⭐ krabby",
+		name: "⭐ krabby-Odyssey",
 		types: ["Water", "Steel"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 30, atk: 105, def: 90, spa: 25, spd: 25, spe: 50 },
@@ -21436,7 +21436,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	kinglerodyssey: {
 		num: -202,
-		name: "⭐ kingler",
+		name: "⭐ kingler-Odyssey",
 		types: ["Water", "Steel"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 55, atk: 130, def: 120, spa: 50, spd: 65, spe: 75 },
@@ -21448,7 +21448,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	voltorbodyssey: {
 		num: -203,
-		name: "⭐ voltorb",
+		name: "⭐ voltorb-Odyssey",
 		types: ["Electric", "Grass"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 40, atk: 30, def: 50, spa: 55, spd: 55, spe: 100 },
@@ -21460,7 +21460,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	electrodeodyssey: {
 		num: -204,
-		name: "⭐ electrode",
+		name: "⭐ electrode-Odyssey",
 		types: ["Electric", "Grass"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 60, atk: 50, def: 70, spa: 85, spd: 80, spe: 160 },
@@ -21472,7 +21472,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	exeggcuteodyssey: {
 		num: -205,
-		name: "⭐ exeggcute",
+		name: "⭐ exeggcute-Odyssey",
 		types: ["Grass", "Ground"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 60, atk: 50, def: 80, spa: 60, spd: 45, spe: 40 },
@@ -21484,7 +21484,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	exeggutorodyssey: {
 		num: -206,
-		name: "⭐ exeggutor",
+		name: "⭐ exeggutor-Odyssey",
 		types: ["Grass", "Ground"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 95, atk: 110, def: 85, spa: 125, spd: 80, spe: 55 },
@@ -21496,7 +21496,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	cuboneodyssey: {
 		num: -207,
-		name: "⭐ cubone",
+		name: "⭐ cubone-Odyssey",
 		types: ["Ground", "Aether"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 50, atk: 50, def: 95, spa: 40, spd: 50, spe: 35 },
@@ -21508,7 +21508,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	marowakodyssey: {
 		num: -208,
-		name: "⭐ marowak",
+		name: "⭐ marowak-Odyssey",
 		types: ["Ground", "Aether"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 80, atk: 85, def: 120, spa: 50, spd: 80, spe: 45 },
@@ -21520,7 +21520,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	hitmonleeodyssey: {
 		num: -209,
-		name: "Hitmonlee",
+		name: "Hitmonlee-Odyssey",
 		types: ["Fighting"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 50, atk: 120, def: 53, spa: 35, spd: 110, spe: 87 },
@@ -21532,7 +21532,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	hitmonchanodyssey: {
 		num: -210,
-		name: "Hitmonchan",
+		name: "Hitmonchan-Odyssey",
 		types: ["Fighting"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 50, atk: 105, def: 79, spa: 35, spd: 110, spe: 76 },
@@ -21544,7 +21544,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	lickitungodyssey: {
 		num: -211,
-		name: "Lickitung",
+		name: "Lickitung-Odyssey",
 		types: ["Normal"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 90, atk: 55, def: 75, spa: 60, spd: 75, spe: 30 },
@@ -21556,7 +21556,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	koffingodyssey: {
 		num: -212,
-		name: "Koffing",
+		name: "Koffing-Odyssey",
 		types: ["Poison"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 40, atk: 65, def: 95, spa: 60, spd: 45, spe: 35 },
@@ -21568,7 +21568,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	weezingodyssey: {
 		num: -213,
-		name: "Weezing",
+		name: "Weezing-Odyssey",
 		types: ["Poison"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 65, atk: 90, def: 120, spa: 85, spd: 70, spe: 60 },
@@ -21580,7 +21580,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	rhyhornodyssey: {
 		num: -214,
-		name: "Rhyhorn",
+		name: "Rhyhorn-Odyssey",
 		types: ["Ground", "Rock"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 80, atk: 85, def: 95, spa: 30, spd: 30, spe: 25 },
@@ -21592,7 +21592,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	rhydonodyssey: {
 		num: -215,
-		name: "Rhydon",
+		name: "Rhydon-Odyssey",
 		types: ["Ground", "Rock"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 105, atk: 130, def: 120, spa: 45, spd: 45, spe: 40 },
@@ -21604,7 +21604,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	chanseyodyssey: {
 		num: -216,
-		name: "⭐ chansey",
+		name: "⭐ chansey-Odyssey",
 		types: ["Normal", "Aether"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 250, atk: 5, def: 5, spa: 35, spd: 105, spe: 50 },
@@ -21616,7 +21616,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	tangelaodyssey: {
 		num: -217,
-		name: "⭐ tangela",
+		name: "⭐ tangela-Odyssey",
 		types: ["Grass", "Ghost"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 65, atk: 80, def: 115, spa: 80, spd: 40, spe: 60 },
@@ -21628,7 +21628,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	kangaskhanodyssey: {
 		num: -218,
-		name: "Kangaskhan",
+		name: "Kangaskhan-Odyssey",
 		types: ["Normal"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 105, atk: 95, def: 80, spa: 40, spd: 80, spe: 90 },
@@ -21640,7 +21640,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	horseaodyssey: {
 		num: -219,
-		name: "Horsea",
+		name: "Horsea-Odyssey",
 		types: ["Water"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 30, atk: 40, def: 70, spa: 70, spd: 25, spe: 60 },
@@ -21652,7 +21652,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	seadraodyssey: {
 		num: -220,
-		name: "Seadra",
+		name: "Seadra-Odyssey",
 		types: ["Water"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 55, atk: 65, def: 95, spa: 95, spd: 45, spe: 85 },
@@ -21664,7 +21664,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	goldeenodyssey: {
 		num: -221,
-		name: "Goldeen",
+		name: "Goldeen-Odyssey",
 		types: ["Water"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 45, atk: 67, def: 60, spa: 35, spd: 50, spe: 63 },
@@ -21676,7 +21676,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	seakingodyssey: {
 		num: -222,
-		name: "Seaking",
+		name: "Seaking-Odyssey",
 		types: ["Water"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 85, atk: 105, def: 70, spa: 65, spd: 80, spe: 70 },
@@ -21688,7 +21688,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	staryuodyssey: {
 		num: -223,
-		name: "Staryu",
+		name: "Staryu-Odyssey",
 		types: ["Water"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 30, atk: 45, def: 55, spa: 70, spd: 55, spe: 85 },
@@ -21700,7 +21700,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	starmieodyssey: {
 		num: -224,
-		name: "Starmie",
+		name: "Starmie-Odyssey",
 		types: ["Water", "Psychic"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 60, atk: 75, def: 85, spa: 100, spd: 85, spe: 115 },
@@ -21712,7 +21712,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	mrmimeodyssey: {
 		num: -225,
-		name: "Mr. mime",
+		name: "Mr. mime-Odyssey",
 		types: ["Psychic"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 60, atk: 45, def: 70, spa: 100, spd: 120, spe: 90 },
@@ -21724,7 +21724,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	scytherodyssey: {
 		num: -226,
-		name: "Scyther",
+		name: "Scyther-Odyssey",
 		types: ["Bug", "Flying"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 70, atk: 110, def: 80, spa: 55, spd: 80, spe: 105 },
@@ -21736,7 +21736,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	kleavorodyssey: {
 		num: -227,
-		name: "Kleavor",
+		name: "Kleavor-Odyssey",
 		types: ["Bug", "Rock"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 70, atk: 135, def: 95, spa: 45, spd: 70, spe: 85 },
@@ -21748,7 +21748,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	jynxodyssey: {
 		num: -228,
-		name: "⭐ jynx",
+		name: "⭐ jynx-Odyssey",
 		types: ["Grass", "Water"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 65, atk: 50, def: 50, spa: 115, spd: 100, spe: 105 },
@@ -21760,7 +21760,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	electabuzzodyssey: {
 		num: -229,
-		name: "⭐ electabuzz",
+		name: "⭐ electabuzz-Odyssey",
 		types: ["Electric", "Dragon"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 65, atk: 95, def: 57, spa: 83, spd: 85, spe: 105 },
@@ -21772,7 +21772,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	magmarodyssey: {
 		num: -230,
-		name: "⭐ magmar",
+		name: "⭐ magmar-Odyssey",
 		types: ["Fire", "Water"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 65, atk: 95, def: 57, spa: 100, spd: 85, spe: 93 },
@@ -21784,7 +21784,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	pinsirodyssey: {
 		num: -231,
-		name: "Pinsir",
+		name: "Pinsir-Odyssey",
 		types: ["Bug"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 65, atk: 125, def: 110, spa: 55, spd: 75, spe: 85 },
@@ -21796,7 +21796,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	taurosodyssey: {
 		num: -232,
-		name: "Tauros",
+		name: "Tauros-Odyssey",
 		types: ["Normal"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 75, atk: 100, def: 95, spa: 40, spd: 70, spe: 110 },
@@ -21808,7 +21808,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	magikarpodyssey: {
 		num: -233,
-		name: "Magikarp",
+		name: "Magikarp-Odyssey",
 		types: ["Water"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 20, atk: 10, def: 55, spa: 15, spd: 20, spe: 80 },
@@ -21820,7 +21820,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	gyaradosodyssey: {
 		num: -234,
-		name: "Gyarados",
+		name: "Gyarados-Odyssey",
 		types: ["Water", "Flying"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 95, atk: 125, def: 79, spa: 60, spd: 100, spe: 81 },
@@ -21832,7 +21832,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	laprasodyssey: {
 		num: -235,
-		name: "Lapras",
+		name: "Lapras-Odyssey",
 		types: ["Water", "Ice"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 130, atk: 85, def: 80, spa: 85, spd: 95, spe: 60 },
@@ -21844,7 +21844,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	eeveeodyssey: {
 		num: -236,
-		name: "Eevee",
+		name: "Eevee-Odyssey",
 		types: ["Normal"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 55, atk: 55, def: 50, spa: 45, spd: 65, spe: 55 },
@@ -21856,7 +21856,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	vaporeonodyssey: {
 		num: -237,
-		name: "Vaporeon",
+		name: "Vaporeon-Odyssey",
 		types: ["Water"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 130, atk: 65, def: 60, spa: 110, spd: 95, spe: 65 },
@@ -21868,7 +21868,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	jolteonodyssey: {
 		num: -238,
-		name: "Jolteon",
+		name: "Jolteon-Odyssey",
 		types: ["Electric"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 65, atk: 65, def: 60, spa: 110, spd: 95, spe: 130 },
@@ -21880,7 +21880,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	flareonodyssey: {
 		num: -239,
-		name: "Flareon",
+		name: "Flareon-Odyssey",
 		types: ["Fire"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 65, atk: 130, def: 60, spa: 95, spd: 110, spe: 65 },
@@ -21892,7 +21892,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	yggdreonodyssey: {
 		num: -240,
-		name: "⭐ yggdreon",
+		name: "⭐ yggdreon-Odyssey",
 		types: ["Aether"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 100, atk: 130, def: 80, spa: 60, spd: 80, spe: 75 },
@@ -21904,7 +21904,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	porygonodyssey: {
 		num: -241,
-		name: "Porygon",
+		name: "Porygon-Odyssey",
 		types: ["Normal"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 65, atk: 60, def: 70, spa: 85, spd: 75, spe: 40 },
@@ -21916,7 +21916,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	omanyteodyssey: {
 		num: -242,
-		name: "⭐ omanyte",
+		name: "⭐ omanyte-Odyssey",
 		types: ["Ghost", "Water"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 35, atk: 90, def: 100, spa: 40, spd: 55, spe: 35 },
@@ -21928,7 +21928,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	omastarodyssey: {
 		num: -243,
-		name: "⭐ omastar",
+		name: "⭐ omastar-Odyssey",
 		types: ["Ghost", "Water"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 75, atk: 125, def: 125, spa: 50, spd: 80, spe: 50 },
@@ -21940,7 +21940,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	kabutoodyssey: {
 		num: -244,
-		name: "⭐ kabuto",
+		name: "⭐ kabuto-Odyssey",
 		types: ["Bug", "Dark"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 30, atk: 80, def: 90, spa: 55, spd: 45, spe: 55 },
@@ -21952,7 +21952,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	kabutopsodyssey: {
 		num: -245,
-		name: "⭐ kabutops",
+		name: "⭐ kabutops-Odyssey",
 		types: ["Bug", "Dark"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 60, atk: 115, def: 95, spa: 60, spd: 75, spe: 100 },
@@ -21964,7 +21964,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	aerodactylodyssey: {
 		num: -246,
-		name: "⭐ aerodactyl",
+		name: "⭐ aerodactyl-Odyssey",
 		types: ["Rock", "Dragon"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 80, atk: 105, def: 65, spa: 60, spd: 75, spe: 130 },
@@ -21976,7 +21976,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	snorlaxodyssey: {
 		num: -247,
-		name: "Snorlax",
+		name: "Snorlax-Odyssey",
 		types: ["Normal"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 160, atk: 110, def: 65, spa: 65, spd: 110, spe: 30 },
@@ -21988,7 +21988,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	dratiniodyssey: {
 		num: -248,
-		name: "Dratini",
+		name: "Dratini-Odyssey",
 		types: ["Dragon"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 41, atk: 64, def: 45, spa: 50, spd: 50, spe: 50 },
@@ -22000,7 +22000,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	dragonairodyssey: {
 		num: -249,
-		name: "Dragonair",
+		name: "Dragonair-Odyssey",
 		types: ["Dragon"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 61, atk: 84, def: 65, spa: 70, spd: 70, spe: 70 },
@@ -22012,7 +22012,7 @@ export const Pokedex: import("../sim/dex-species").SpeciesDataTable = {
 	},
 	dragoniteodyssey: {
 		num: -250,
-		name: "Dragonite",
+		name: "Dragonite-Odyssey",
 		types: ["Dragon", "Flying"],
 		genderRatio: { M: 0.5, F: 0.5 },
 		baseStats: { hp: 91, atk: 134, def: 95, spa: 100, spd: 100, spe: 80 },
