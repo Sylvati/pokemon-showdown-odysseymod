@@ -6040,456 +6040,607 @@ export const FormatsData: import("../sim/dex-species").SpeciesFormatsDataTable =
 			tier: "Illegal",
 		},
 		bulbasaurodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		ivysaurodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		venusaurodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		charmanderodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		charmeleonodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		charizardodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		squirtleodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		wartortleodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		blastoiseodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		caterpieodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		metapododyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		butterfreeodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		weedleodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		kakunaodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		beedrillodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		pidgeyodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		pidgeottoodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		pidgeotodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		rattataodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		ratreecateodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		spearowodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		fearowodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		ekansodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		arbokodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		pikachuodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		raichuodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		gorochuodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		sandshrewodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		sandslashodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		nidoranfodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		nidorinaodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		nidoqueenodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		nidoranmodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		nidorinoodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		nidokingodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		clefairyodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		clefableodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		vulpixodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		ninetalesodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		jigglypuffodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		wigglytuffodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		zubatodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		golbatodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		oddishodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		gloomodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		vileplumeodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		parasodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		parasectodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		venonatodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		venomothodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		diglettodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		dugtrioodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		meowthodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		persianodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		psyduckodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		golduckodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		mankeyodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		primeapeodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		annihilapeodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		growlitheodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		arcanineodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		poliwagodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		poliwhirlodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		poliwrathodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		abraodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		kadabraodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		alakazamodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		machopodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		machokeodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		machampodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		bellsproutodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		weepinbellodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		victreebelodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		tentacoolodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		tentacruelodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		geodudeodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		gravelerodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		golemodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		ponytaodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		rapidashodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		slowpokeodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		slowbroodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		magnemiteodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		magnetonodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		farfetchdodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		farfetchdgalarodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		sirfetchdodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		doduoodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		dodrioodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		seelodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		dewgongodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		grimerodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		mukodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		shellderodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		cloysterodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		gastlyodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		haunterodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		gengarodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		onixodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		drowzeeodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		hypnoodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		krabbyodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		kinglerodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		voltorbodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		electrodeodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		exeggcuteodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		exeggutorodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		cuboneodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		marowakodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		hitmonleeodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		hitmonchanodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		lickitungodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		koffingodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		weezingodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		rhyhornodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		rhydonodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		chanseyodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		tangelaodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		kangaskhanodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		horseaodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		seadraodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		goldeenodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		seakingodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		staryuodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		starmieodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		mrmimeodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		scytherodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		kleavorodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		jynxodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		electabuzzodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		magmarodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		pinsirodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		taurosodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		magikarpodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		gyaradosodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		laprasodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		eeveeodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		vaporeonodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		jolteonodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		flareonodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		yggdreonodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		porygonodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		omanyteodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		omastarodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		kabutoodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		kabutopsodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		aerodactylodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		snorlaxodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		dratiniodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		dragonairodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 		dragoniteodyssey: {
-			tier: "AG",
+			isNonstandard: "ODY",
+			tier: "ODY AG",
 		},
 	};
